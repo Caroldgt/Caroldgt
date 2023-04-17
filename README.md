@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Carol!</h1>
 <div align="center">
   <a href="https://github.com/israelhp">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Caroldgt&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caroldgt&layout=compact&langs_count=7&theme=dark"/>
+  <img align='right' src="https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
+    <img align='right'src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caroldgt&layout_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
+  
 </div>
 <br>
 <div align ="center"> 
