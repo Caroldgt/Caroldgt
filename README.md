@@ -1,7 +1,7 @@
 ## Ola, obrigado por me visitar, me chamo Carol.
--💻-Criadora de Desenvolvimento <strong> Web </strong>.
+-💻-Desenvolvimento <strong> Web </strong>.
 <br>
--👨‍💻-Estudante de <strong>Desenvolvimento de software </strong>.
+-👩🏻‍💻-Estudante de <strong>Desenvolvimento de software </strong>.
 <br>
 <br>
 -📧-Email: caroldaga2@gmail.com</strong>.
