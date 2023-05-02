@@ -25,6 +25,7 @@
   <a href="https://www.instagram.com/carol_dgt/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto: caroldaga2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://wa.me/5517992142475?text=Ol%C3%A1%2Cgostaria+de+fazer+um+or%C3%A7amento%21om"><img src="https://img.shields.io/badge/-Whatsapp-%25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href = "https://www.figma.com/files/user/1218674148303881216?fuid=1218674148303881216"><img src="https://img.shields.io/badge/-Figma-483D8B?style=for-the-badge&logo=figma&logoColor=white"></a>
 
  
 </div>
