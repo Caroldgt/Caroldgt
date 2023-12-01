@@ -6,7 +6,6 @@
     <img src="https://img.shields.io/badge/Focus-Full Stack%20Development-dodgerblue" />
     <img src="https://img.shields.io/badge/Languages-Português and English-dodgerblue" />
      <img src="https://komarev.com/ghpvc/?username=Caroldgt&color=brightgreen" alt="watching_count" />
-     <img src="https://discord.gg/N5P5YmqE" alt="Discord Shield"/>
       </div>
  
    
@@ -80,7 +79,6 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Caroldgt&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Caroldgt&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Caroldgt&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
