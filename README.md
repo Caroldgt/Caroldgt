@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/Focus-Full Stack%20Development-dodgerblue" />
     <img src="https://img.shields.io/badge/Languages-Português and English-dodgerblue" />
      <img src="https://komarev.com/ghpvc/?username=Caroldgt&color=brightgreen" alt="watching_count" />
-     <img src="https://discordapp.com/api/guilds/1160904516951085106/widget.png?style=shield" alt="Discord Shield"/>
+     <img src="https://discord.gg/N5P5YmqE" alt="Discord Shield"/>
       </div>
  
    
